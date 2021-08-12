@@ -1,1 +1,1 @@
-<p>your invitation id is {{ $code }}</p>
+<p>Thank you for your participation, here is your invitation id {{ $code }}</p>
